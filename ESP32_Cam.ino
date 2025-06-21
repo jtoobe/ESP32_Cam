@@ -17,6 +17,8 @@
 // servida por la ESP32CAM. En la pagina usar el boton "Start Stream" para ver video o
 // "Get Still" para tomar una imagen
 
+// ATENCION !!!!: Para cargar el programa usar un cable de buena calidad !!! muchas veces falla el upload por ese tema
+
 // ===================
 // Select camera model
 // ===================
